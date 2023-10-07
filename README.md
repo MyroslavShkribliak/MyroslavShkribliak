@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-<a href="https://www.linkedin.com/in/myroslav-shkriblyak-21bb57257/">
+<a href="https://www.linkedin.com/in/myroslav-shkribliak-21bb57257/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/myroslavshkriblyak/">
@@ -11,7 +11,7 @@
 <br /> 
 
 
-Hi, I'm <b>Myroslav Shkriblyak</b>, a <b>Full-Stack Developer</b> 🚀 from Ukraine.
+Hi, I'm <b>Myroslav Shkribliak</b>, a <b>Full-Stack Developer</b> 🚀 from Ukraine.
 
 
 **Languages and Tools:**
@@ -27,6 +27,6 @@ Hi, I'm <b>Myroslav Shkriblyak</b>, a <b>Full-Stack Developer</b> 🚀 from Ukra
 
 <br />
     
-<p> <img src="https://github-readme-stats.vercel.app/api?username=MyroslavShkriblyak&show_icons=true" alt="myGitStats" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=MyroslavShkribliak&show_icons=true" alt="myGitStats" />
 
     
